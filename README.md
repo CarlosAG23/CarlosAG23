@@ -1,7 +1,5 @@
 • 👋 Hola, soy Carlos
-
 • 👀 Soy estudiante de ingenieria en TI.
-
 • 🧠 Me gusta la tecnología y la inteligencia artificial
 
 
