@@ -1,8 +1,7 @@
-- 👋 Hola soy Carlos
-- 👀 Soy estudiante de ingenieria en TI.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+• 👋 Hola, soy Carlos
+• 👀 Soy estudiante de ingenieria en TI.
+• 🧠 Me gusta la tecnología y la inteligencia artificial
+
 
 <!---
 CarlosWay23/CarlosWay23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
