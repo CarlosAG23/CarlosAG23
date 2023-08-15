@@ -1,5 +1,5 @@
 # Hey there! :wave: Welcome...  :computer:
-[![banner](./banner-home.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
+[![banner](./bannercw.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
 ## About me...
 I'm a Back-End developer that have applyed JavaScript, C# and NodeJS to create apps in the Backend side with frameworks like NestJS and .NET. I program full integration web apps using development methodologies as Github, Slack, SCRUM and Kanban. Do sport is one of my hobbies, sometimes I go bike riding with friends, or do calesthenics, it helps you to focus on your main goals. 
 
