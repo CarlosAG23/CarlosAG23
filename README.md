@@ -38,11 +38,10 @@ Some of the projects:
 
 | *GitHub Stats* | *Programming Languages* |
 ---|---  
-| ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=NousCode&show_icons=true&theme=tokyonight) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NousCode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosWay23&show_icons=true&theme=tokyonight) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosWay23&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## 📡 Find me there:
 
-- [Twitter](https://twitter.com/JuanCSpace1) where I share thinks, personal devevelopment and other things.
 - [LinkedIn](https://www.linkedin.com/in/juan-camilo-salazar-be/) where I write programming post and my professional background. 
 - [Instagram](https://www.instagram.com/nous_code/), where I upload my random and crazy photos.
 
