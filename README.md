@@ -1,7 +1,16 @@
 # Hey there! :wave: Welcome...  :computer:
 [![banner](./bannercw.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
 ## About me...
-I'm a Back-End developer that have applyed JavaScript, C# and NodeJS to create apps in the Backend side with frameworks like NestJS and .NET. I program full integration web apps using development methodologies as Github, Slack, SCRUM and Kanban. Do sport is one of my hobbies, sometimes I go bike riding with friends, or do calesthenics, it helps you to focus on your main goals. 
+I'm a passionate web developer with a diverse track record of achievements. My experience ranges from creating a B2C e-commerce platform for the Feria Maki Solidaria PUCE to developing an online course reservation system and crafting captivating static web pages.
+
+One of the milestones in my career was the successful implementation of a B2C e-commerce solution for the Feria Maki Solidaria PUCE. This project not only showcased my proficiency in HTML, CSS, JS, PHP, and MySQL but also highlighted my dedication to user experience and functionality.
+
+Furthermore, I've designed and built an online reservation system that streamlines the course enrollment process. Leveraging technologies like PHP and MySQL demonstrated my ability to construct efficient and dependable solutions.
+
+To ensure efficacy in my projects, I've incorporated agile methodologies like Scrum and Kanban into my workflow. These practices have enabled me to manage projects collaboratively, ensuring timely deliveries and maintaining a high level of quality.
+
+On my journey as a web developer, I continue to explore new technologies and approaches to enhance my skills. My determination to learn and my enthusiasm for innovation constantly drive me to overcome new challenges and deliver exceptional digital solutions.
+
 
 🐉 I'm currently studing as a [Platzi](https://www.linkedin.com/school/platzi-inc/) Master student.
 
