@@ -51,5 +51,5 @@ Some of the projects:
 
 ## Resources
 Write me an email or Download my CV.
-- My email: <a style="margin-left: 8px;" href="mailto:nouscode@outlook.com">nouscode@outlook.com</a>
+- My email: <a style="margin-left: 8px;" href="carlosmrg4@gmail.com">carlosmrg4@gmail.com</a>
 - My CV in PDF format: <a style="text-align: center;" href="https://1drv.ms/b/s!Aj66jVJPb5INdPAz1L4KebsamhE">Curriculum Vitae</a>
