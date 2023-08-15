@@ -12,7 +12,7 @@ To ensure efficacy in my projects, I've incorporated agile methodologies like Sc
 On my journey as a web developer, I continue to explore new technologies and approaches to enhance my skills. My determination to learn and my enthusiasm for innovation constantly drive me to overcome new challenges and deliver exceptional digital solutions.
 
 
-📗 I currently continue training in the latest programming trends
+🚀 I'm currently undergoing training to stay updated with the latest programming trends
 
 🔭 Right now, I am improving my soft skills.
 
