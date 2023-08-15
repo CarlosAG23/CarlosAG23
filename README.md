@@ -21,7 +21,7 @@ On my journey as a web developer, I continue to explore new technologies and app
 🌎 I'm looking for new horizons.
 
 ## Projects 🚂
-I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces. I've worked with JavaScript and C#. Right now, I implement them in order to do web apps in the Backend.
+I am passionate about spending my time on technology-related projects, where I can see how each component fits together harmoniously. This experience fills me with enthusiasm, since programming acts as the language through which I establish communication with these interconnected elements. My background includes collaboration with languages ​​like JavaScript and PHP. 
 
 Some of the projects:
 - [Studio Ghibli Back Office: Manage all movies content and User's accounts from Ghibli tracker.](https://backoffice.c10-se.com/)
