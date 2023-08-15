@@ -16,9 +16,9 @@ On my journey as a web developer, I continue to explore new technologies and app
 
 🏓 Right now, I am improving my skills.
 
-🌱 I'm trying to learn cloud computing and Devops.
+🌱 I'm trying to learn IT Automation with Python
 
-🎣 I'm looking for new horizons.
+🌎 I'm looking for new horizons.
 
 ## Projects 🚂
 I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces. I've worked with JavaScript and C#. Right now, I implement them in order to do web apps in the Backend.
