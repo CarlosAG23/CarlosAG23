@@ -24,14 +24,6 @@ On my journey as a web developer, I continue to explore new technologies and app
 I am passionate about spending my time on technology-related projects, where I can see how each component fits together harmoniously. This experience fills me with enthusiasm, since programming acts as the language through which I establish communication with these interconnected elements. My background includes collaboration with languages ​​like JavaScript and PHP. 
 
 Some of the projects:
-- [Studio Ghibli Back Office: Manage all movies content and User's accounts from Ghibli tracker.](https://backoffice.c10-se.com/)
-  - [The official repository](https://github.com/C10-Ghibli-s/BE-Backoffice)
-- [Studio Ghibli Movie Tracker: Rate and Discover your favorites Ghibli's movies](https://ghibli-tracker.c10-se.com/)
-  - [The official repository](https://github.com/C10-Ghibli-s/BE-Studio-Ghibli-Tracker)
-
-- [Personal portfolio and blog website: Share blogs and your dev projects in a modern web page.](https://github.com/NousCode/personal-website)
-  - [Portfolio and Blog Website](https://nouscode.net/): Application deployed.
-- [Platzi Conf Hawaii is simple project for practice Bootstrap framework.](https://nouscode.github.io/platzi-bootstrap/)
 
 ## 🏅Technologies that I've used.
 
