@@ -42,12 +42,11 @@ Some of the projects:
 
 | *GitHub Stats* | *Programming Languages* |
 ---|---  
-| ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosWay23&show_icons=true&theme=tokyonight) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosWay23&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAG23&show_icons=true&theme=tokyonight) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAG23&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## 📡 Find me there:
 
-- [LinkedIn](https://www.linkedin.com/in/juan-camilo-salazar-be/) where I write programming post and my professional background. 
-- [Instagram](https://www.instagram.com/nous_code/), where I upload my random and crazy photos.
+- [LinkedIn](https://www.linkedin.com/in/carlos-ag-a522a8211) where I write programming post and my professional background. 
 
 ## Resources
 Write me an email or Download my CV.
