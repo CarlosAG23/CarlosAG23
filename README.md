@@ -1,6 +1,6 @@
 # Hey there! :wave: Welcome...  :computer:
 [![banner](./bannercw.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
-## About me...
+## About me..
 I'm a passionate web developer with a diverse track record of achievements. My experience ranges from creating a B2C e-commerce platform for the Feria Maki Solidaria PUCE to developing an online course reservation system and crafting captivating static web pages.
 
 One of the milestones in my career was the successful implementation of a B2C e-commerce solution for the Feria Maki Solidaria PUCE. This project not only showcased my proficiency in HTML, CSS, JS, PHP, and MySQL but also highlighted my dedication to user experience and functionality.
