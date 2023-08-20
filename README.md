@@ -1,16 +1,13 @@
 # Hey there! :wave: Welcome...  :computer:
 [![banner](./bannercw.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
 ## About me..
-I'm a passionate web developer with a diverse track record of achievements. My experience ranges from creating a B2C e-commerce platform for the Feria Maki Solidaria PUCE to developing an online course reservation system and crafting captivating static web pages.
+I am a passionate web developer with a diverse track record of achievements. My experience spans from creating an e-commerce platform to developing an online course reservation system and crafting captivating static web pages.
 
-One of the milestones in my career was the successful implementation of a B2C e-commerce solution for the Feria Maki Solidaria PUCE. This project not only showcased my proficiency in HTML, CSS, JS, PHP, and MySQL but also highlighted my dedication to user experience and functionality.
+Furthermore, I designed and built an online reservation system that streamlines the course registration process. Leveraging technologies like PHP and MySQL showcased my ability to construct efficient and reliable solutions.
 
-Furthermore, I've designed and built an online reservation system that streamlines the course enrollment process. Leveraging technologies like PHP and MySQL demonstrated my ability to construct efficient and dependable solutions.
+To ensure effectiveness in my projects, I incorporated agile methodologies like Scrum and Kanban into my workflow. These practices have enabled me to manage projects collaboratively, ensuring timely deliveries and maintaining a high level of quality.
 
-To ensure efficacy in my projects, I've incorporated agile methodologies like Scrum and Kanban into my workflow. These practices have enabled me to manage projects collaboratively, ensuring timely deliveries and maintaining a high level of quality.
-
-On my journey as a web developer, I continue to explore new technologies and approaches to enhance my skills. My determination to learn and my enthusiasm for innovation constantly drive me to overcome new challenges and deliver exceptional digital solutions.
-
+On my journey as a web developer, I continue to explore new technologies and approaches to enhance my skills. My determination to learn and enthusiasm for innovation consistently drive me to overcome new challenges and deliver exceptional digital solutions.
 
 🚀 I'm currently undergoing training to stay updated with the latest programming trends
 
