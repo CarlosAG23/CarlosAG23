@@ -11,7 +11,7 @@ On my journey as a web developer, I continue to explore new technologies and app
 
 🚀 I'm currently undergoing training to stay updated with the latest programming trends
 
-🏓 Right now, I am improving my skills.
+🏓 Right now, I am improving my skills
 
 🌱 I'm trying to learn IT Automation with Python
 
