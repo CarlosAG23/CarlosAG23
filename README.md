@@ -1,7 +1,7 @@
 # Hey there! :wave: Welcome...  :computer:
 [![banner](./bannercw.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
 ## About me..
-I am a passionate web developer with a diverse track record of achievements. My experience spans from creating an e-commerce platform to developing an online course reservation system and crafting captivating static web pages
+I am a passionate web developer with a diverse track record of achievements. My experience spans from creating an e-commerce platform to developing an online course reservation system and crafting captivating static web pages.
 
 Furthermore, I designed and built an online reservation system that streamlines the course registration process. Leveraging technologies like PHP and MySQL showcased my ability to construct efficient and reliable solutions.
 
