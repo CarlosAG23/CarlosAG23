@@ -1,4 +1,4 @@
-# Hey there! :wave: Welcome...  :computer:
+# Hey there! :wave: Welcome..  :computer:
 [![banner](./bannercw.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
 ## About me...
 I am a passionate web developer with a diverse track record of achievements. My experience spans from creating an e-commerce platform to developing an online course reservation system and crafting captivating static web pages.
