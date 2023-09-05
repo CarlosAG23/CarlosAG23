@@ -1,11 +1,7 @@
 # Hey there! :wave: Welcome..  :computer:
 [![banner](./bannercw.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
 ## About me...
-I am a passionate web developer with a diverse track record of achievements. My experience spans from creating an e-commerce platform to developing an online course reservation system and crafting captivating static web pages.
-
-Furthermore, I designed and built an online reservation system that streamlines the course registration process. Leveraging technologies like PHP and MySQL showcased my ability to construct efficient and reliable solutions.
-
-To ensure effectiveness in my projects, I incorporated agile methodologies like Scrum and Kanban into my workflow. These practices have enabled me to manage projects collaboratively, ensuring timely deliveries and maintaining a high level of quality.
+I am an Information Technology Engineer with a passion for web development and technology problem solving. With a focus on creating robust and scalable web applications, I have accumulated experience working with diverse technologies and following agile practices.
 
 On my journey as a web developer, I continue to explore new technologies and approaches to enhance my skills. My determination to learn and enthusiasm for innovation consistently drive me to overcome new challenges and deliver exceptional digital solutions.
 
