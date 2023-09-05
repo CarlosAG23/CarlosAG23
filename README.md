@@ -13,7 +13,7 @@ On my journey as a web developer, I continue to explore new technologies and app
 
 🌎 I'm looking for new horizons.
 
-## Projects 🚂
+## Projects :pager:
 During my career, I have developed a number of web applications using a variety of technologies, including: 
 - **HTML, CSS y JavaScript:** I use these technologies to create attractive and functional user interfaces.
 - **PHP:** I have worked extensively with PHP to create the backend of my web applications, implementing the MVC (Model-View-Controller) architecture to maintain a clean and organized code.
