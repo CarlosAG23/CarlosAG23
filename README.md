@@ -1,9 +1,8 @@
 # Hey there! :wave: Welcome..  :computer:
 [![banner](./bannercw.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
 ## :octocat: About me...
-I am an Information Technology Engineer with a passion for web development and technology problem solving. With a focus on creating robust and scalable web applications, I have accumulated experience working with diverse technologies and following agile practices.
-
-On my journey as a web developer, I continue to explore new technologies and approaches to enhance my skills. My determination to learn and enthusiasm for innovation consistently drive me to overcome new challenges and deliver exceptional digital solutions.
+I am an Information Technology Engineer with experience in web development and technical support. My main goal is to provide support and solutions that meet the needs of businesses. 
+Throughout my career, I have gained experience working with some technologies and following rigorous agile methodologies to ensure efficiency and quality in every project.
 
 🚀 I'm currently undergoing training to stay updated with the latest programming trends
 
