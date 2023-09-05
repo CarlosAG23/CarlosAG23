@@ -14,7 +14,8 @@ On my journey as a web developer, I continue to explore new technologies and app
 🌎 I'm looking for new horizons.
 
 ## Projects 🚂
-I am passionate about spending my time on technology-related projects, where I can see how each component fits together harmoniously. This experience fills me with enthusiasm, since programming acts as the language through which I establish communication with these interconnected elements. My background includes collaboration with languages ​​like JavaScript and PHP. 
+During my career, I have developed a number of web applications using a variety of technologies, including: 
+- **HTML, CSS y JavaScript:** I use these technologies to create attractive and functional user interfaces.
 
 Some of the projects:
 
