@@ -13,15 +13,15 @@ On my journey as a web developer, I continue to explore new technologies and app
 
 🌎 I'm looking for new horizons.
 
-## Projects :pager:
+## :pager: Projects 
 During my career, I have developed a number of web applications using a variety of technologies, including: 
 - **HTML, CSS y JavaScript:** I use these technologies to create attractive and functional user interfaces.
 - **PHP:** I have worked extensively with PHP to create the backend of my web applications, implementing the MVC (Model-View-Controller) architecture to maintain a clean and organized code.
 - **MySQL:**  I use MySQL as my database management system to ensure efficient data persistence.
-## Development Methodologies 📋 
+## 📋 Development Methodologies 
 I follow an agile approach in my work, following the SCRUM framework to ensure timely and high quality delivery of my projects. I believe in the importance of collaboration and effective communication in development teams.
 
-## Lifelong Learning :books:
+## :books: Lifelong Learning 
 Technology is constantly evolving, and I am committed to staying current with the latest trends and tools. I am always exploring new technologies and learning new skills to enhance my capabilities as an IT engineer.
 
 
