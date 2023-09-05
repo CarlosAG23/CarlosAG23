@@ -21,6 +21,8 @@ During my career, I have developed a number of web applications using a variety 
 ## Development Methodologies
 I follow an agile approach in my work, following the SCRUM framework to ensure timely and high quality delivery of my projects. I believe in the importance of collaboration and effective communication in development teams.
 
+## Lifelong Learning
+Technology is constantly evolving, and I am committed to staying current with the latest trends and tools. I am always exploring new technologies and learning new skills to enhance my capabilities as an IT engineer.
 
 
 
