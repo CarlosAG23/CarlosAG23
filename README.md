@@ -1,14 +1,14 @@
 # Hey there! :wave: Welcome..  :computer:
 [![banner](./bannercw.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
 ## :octocat: About me...
-I am an Information Technology Engineer with experience in web development and technical support. My main goal is to provide support and solutions that meet the needs of businesses. 
-Throughout my career, I have gained experience working with some technologies and following rigorous agile methodologies to ensure efficiency and quality in every project.
+I'm an Information Technology Engineer with experience in web development and technical support. My main goal is to provide support and solutions that meet the needs of businesses. 
+Throughout my career, I've gained experience working with some technologies and following rigorous agile methodologies to ensure efficiency and quality in every project.
 
-🚀 I'm currently undergoing training to stay updated with the latest programming trends
+🚀 I'm currently learning the latest trends in programming.
 
-🏓 Right now, I am improving my skills
+🏓 I'm currently improving my skills in development. 
 
-🌱 I'm trying to learn IT Automation with Python
+🌱 I'm trying to learn computer automation with Python.
 
 🌎 I'm looking for new horizons.
 
