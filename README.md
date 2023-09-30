@@ -1,4 +1,4 @@
-# Hey there! :wave: Welcome...  :computer:
+# Hey there! :wave: Welcome  :computer:
 [![banner](./bannercw.png)](https://www.linkedin.com/in/carlos-ag-a522a8211) 
 ## :octocat: About me...
 I'm an Information Technology Engineer with experience in web development and technical support. My main goal is to provide support and solutions that meet the needs of businesses. 
